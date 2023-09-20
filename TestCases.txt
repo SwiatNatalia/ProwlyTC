@@ -35,3 +35,39 @@ Test steps:
 
 Expected result: 
 Page with Books which contain "prowly" keyword in their content is displayed.
+
+ID.B1 Searching "Prowly" results in Google by Last hour
+
+Preconditions
+Opened Google.com web page
+
+Test steps:
+1. Search "prowly" in google browser
+2. Click on Tools button
+3. Change time filter from "whenever" to "Last hour"
+
+Expected result: If results exist, page with results from last hour associated with prowly brand will be displayed. If there are no results an information that phrase was not found is displayed.
+
+ID.B2 Searching "Prowly" results in Google by Last week
+
+Preconditions
+Opened Google.com web page
+
+Test steps:
+1. Search "prowly" in google browser
+2. Click on Tools button
+3. Change time filter from "whenever" to "Last week"
+
+Expected result: If results exist, page with results from last week associated with prowly brand will be displayed. If there are no results an information that phrase was not found is displayed
+
+ID.B3 Searching "Prowly" results in Google by Last year
+
+Preconditions
+Opened Google.com web page
+
+Test steps:
+1. Search "prowly" in google browser
+2. Click on Tools button
+3. Change time filter from "whenever" to "Last year"
+
+Expected result: If results exist, page with results from last year associated with prowly brand will be displayed. If there are no results an information that phrase was not found is displayed.
