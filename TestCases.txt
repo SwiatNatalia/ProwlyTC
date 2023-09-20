@@ -10,3 +10,28 @@ Test steps:
 
 Expected result:
 Page with pictures associated with Prowly brand is loaded.
+
+ID.A2 Searching "Prowly" in Google Maps
+
+Preconditions
+Opened Google.com web page
+
+Test steps:
+1. Search "prowly" in google browser
+2. Click on All filters button
+3. Choose Map filter
+
+Expected result:
+Google map is opened. The location of Prowly's HQ is marked with the pin on the map. Information panel contains contact details, address and rating of the company.
+
+ID.A3 Searching "Prowly" in Google Books
+Preconditions
+Opened Google.com web page
+
+Test steps:
+1. Search "prowly" in google browser
+2. Click on All filters button
+3. Choose Books filter
+
+Expected result: 
+Page with Books which contain "prowly" keyword in their content is displayed.
