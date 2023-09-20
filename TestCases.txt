@@ -1,0 +1,12 @@
+ID.A1 Searching "Prowly" in Google graphics.
+
+Preconditions
+Opened Google.com web page
+
+Test steps:
+1. Search "prowly" in google browser
+2. Click on All filters button
+3. Choose Graphics filter
+
+Expected result:
+Page with pictures associated with Prowly brand is loaded.
